@@ -1,2 +1,2 @@
 # Firebase-Authentication-Redux-RN
-React Native Authentication which includes [Email - Google - Facebook] using Firebase and Redux
+RN Authentication which includes [Email - Google - Facebook] using Firebase and Redux
